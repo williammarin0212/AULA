@@ -1,0 +1,314 @@
+﻿variable,importancia_shap_media
+e_acad_Demasiado,0.049008028848877803
+recomendación_u_8,0.03557523804242408
+aban_inter_No,0.032795624496042924
+autopercepcion_Totalmente,0.03195726184298034
+d_acad_Muchas veces,0.03143794435479243
+a_profesores_Siempre dispuestos a ayudar,0.029685567188304195
+a_familiar_Mucho,0.027092643165698354
+p_profesores_8,0.026023949384665034
+a_profesores_A veces dispuestos a ayudar,0.02445896676599813
+autopercepcion_Muy poco,0.021182570149715488
+e_acad_Mucho,0.02035664502205938
+per_profesores_6,0.019376225120125424
+d_acad_Nunca,0.017445045792832205
+dificultades_t_Pocas veces,0.017328040701373004
+h_semanal_2-4,0.013950336577192465
+adaptacion_u_4,0.013373882699761202
+h_semanal_6-8,0.013097186431497057
+dificultades_t_Muchas veces,0.012909303215106877
+campus_10,0.012311018185717603
+adaptacion_u_7,0.011635385000138356
+c_familiar_Buen estudiante,0.011276189776594116
+campus_7,0.011147550625957434
+edad_19,0.010079250795020148
+per_profesores_7,0.009797505106241762
+embarazo_des_Muy probable,0.009558611474103704
+g_afectacion_7,0.009084548461198359
+v_semestre_1,0.009021644107616059
+financiacion_Familiar;,0.008618935319262236
+dificultades_t_Siempre,0.008491647693873058
+t_estudios_No trabajo,0.007242970666383049
+financiacion_Crédito;,0.007207973354883354
+transporte_Carro,0.007115400198257777
+ac_acad_5,0.0068016041598060505
+ac_acad_8,0.006701957310719313
+g_afectacion_2,0.006545554385764818
+p_profesores_7,0.0064798058036329344
+ac_acad_6,0.006425146362576089
+carrera_Civil,0.005938035317846103
+financiacion_Mis padres (o familiares) me financian;,0.005509822032726554
+"c_profesores_Sí, definitivamente",0.005239154523213184
+acoso_psc_9,0.005199313665736472
+"t_estudios_Me afecta muy poco, de manera negativa",0.005189056671501977
+c_familiar_Muy buen estudiante,0.0051580930230027905
+ingresos_Hasta un SMLMV ($1.160.000),0.00488035703963454
+v_semestre_5,0.004828045602627895
+recomendación_u_7,0.004565477700504069
+sisben_No tengo,0.004485603434673659
+recomendación_u_9,0.004463106733724418
+g_afectacion_8,0.004368155269239251
+p_profesores_5,0.004351025981876028
+campus_8,0.0041204270730344624
+autopercepcion_Mucho,0.004082870429465906
+per_profesores_9,0.003991449805582191
+campus_5,0.0038042340242216794
+transporte_Moto,0.0037734762994933737
+v_semestre_6,0.003672356931480312
+edad_17,0.0035920187867482327
+p_cargo_Padres,0.0034777615802414506
+t_estudios_No me afecta (Si trabajo),0.0034454600825473093
+a_familiar_Muy poco,0.0034237663432695894
+carrera_Sistemas,0.003419882964398804
+campus_9,0.0033760558275760374
+promedio_acad_4.1,0.003286009777762322
+a_profesores_Rara vez dispuestos a ayudar,0.003016214929013533
+m_calificacion_7,0.002995474588274872
+v_semestre_4,0.0028990319111162643
+e_negativas_Ser madre o padre,0.002780263652227495
+ingresos_No trabajo,0.0026477502360581495
+semestre_2,0.002540504383158125
+p_profesores_6,0.0024841739935286926
+ingresos_$1.160.001 - $2.320.000,0.0024687258119009087
+v_semestre_8,0.002315019587097957
+recomendación_u_10,0.0022782574210654643
+p_cargo_Ninguna,0.002263094543487799
+t_hijos_NO,0.0022456697725997308
+d_acad_Pocas veces,0.002199895937998966
+aban_inter_Sí,0.0019491998016252239
+a_familiar_Demasiado,0.0017767975872409047
+m_calificacion_2,0.0016642627294394502
+ac_acad_1,0.0016035926412905836
+edad_20,0.0014626545689607885
+transporte_Servicio público,0.0014338130539804969
+acoso_psc_10,0.0013348259267724131
+acoso_psc_8,0.0012435803880521436
+r_carrera_Cancelar una materia o más;,0.0011904448076654347
+edad_21,0.0011678963480985724
+"c_profesores_No, no influye",0.0011440689188482356
+p_profesores_9,0.0011290392975055845
+e_acad_Muy poco efecto,0.0011273796497715996
+semestre_1,0.001123045077601074
+h_semanal_4 - 6,0.0010923822121055526
+adaptacion_u_1,0.0010838770316251602
+edad_18,0.001074041937970082
+semestre_8,0.0010691682550489506
+adaptacion_u_6,0.0010218520270359702
+adaptacion_u_5,0.0009605669600531713
+m_calificacion_5,0.0008876276519575354
+recomendación_u_6,0.0008737372329249363
+per_profesores_8,0.0007632496949379795
+"e_negativas_Problemas de carácter psicológico (depresión, estrés, ansiedad, desánimo, entre otros)",0.00071921552717055
+financiacion_Trabajo propio;,0.0006891338320051835
+a_familiar_Relativamente poco,0.0006341762046515014
+e_negativas_Ninguna,0.0006125234322245019
+v_semestre_7,0.0006064139746038827
+ac_acad_4,0.0006045517854786212
+adaptacion_u_8,0.0005211815499955271
+"t_estudios_Me afecta bastante, de manera negativa",0.000468268238026029
+dificultades_t_Nunca,0.0004532295450970383
+acoso_psc_5,0.0004235314355643772
+per_profesores_5,0.0003783122565278282
+transporte_A pie,0.00037016581165521146
+g_afectacion_6,0.0003378650504026512
+h_semanal_8-10,0.0003138404535643253
+ac_acad_7,0.0002794246508535012
+o_voca_Ninguno,0.0002441125044141602
+acoso_psc_7,0.0002196615842192979
+p_cargo_Hijos,0.00015036832396614006
+edad_22,0.00012547041905773998
+g_afectacion_1,0.00012027130757918383
+t_hijos_SI,0.00011852044746356255
+a_familiar_Nada,0.00011449966300520095
+semestre_6,3.223734295001862e-05
+ac_acad_3,1.319505333066684e-06
+razon_Falta de motivación;Problemas financieros;Problemas personales o familiares;,0.0
+razon_Problemas financieros;Dificultades académicas;Problemas personales o familiares;Falta de motivación;,0.0
+e_negativas_Fallecimiento de la madre o del padre,0.0
+i_carrera_Estaba indeciso entre dos o tres elecciones de carreras,0.0
+e_carrera_Vocación o gusto propio;Interés por la disciplina de estudio;Otro;,0.0
+e_carrera_Vocación o gusto propio;Interés por la disciplina de estudio;Amigos;,0.0
+p_cargo_Hermanos,0.0
+recomendación_u_5,0.0
+g_afectacion_5,0.0
+razon_Falta de motivación;,0.0
+i_carrera_Estaba indeciso entre varias opciones de carrera,0.0
+g_afectacion_4,0.0
+g_afectacion_10,0.0
+g_afectacion_3,0.0
+r_carrera_Cancelar el semestre;Cancelar una materia o más;,0.0
+r_carrera_Cancelar el semestre;Cambiarse de carrera;,0.0
+semestre_9,0.0
+semestre_7,0.0
+semestre_10,0.0
+o_voca_Por el colegio,0.0
+o_voca_Por los padres u otro familiar,0.0
+o_voca_Por un profesional especializado,0.0
+e_carrera_Amigos;,0.0
+e_carrera_Interés por la disciplina de estudio;,0.0
+e_carrera_Interés por la disciplina de estudio;Vocación o gusto propio;,0.0
+e_carrera_Interés por la disciplina de estudio;Vocación o gusto propio;Otro;,0.0
+e_carrera_Otro;,0.0
+r_carrera_Cancelar el semestre;,0.0
+e_negativas_Separación/divorcio de los padres,0.0
+e_negativas_Ingresar al mundo laboral,0.0
+r_carrera_Cancelar un curso o más;,0.0
+e_carrera_Vocación o gusto propio;Interés por la disciplina de estudio;,0.0
+e_carrera_Vocación o gusto propio;,0.0
+r_carrera_Cancelar un curso o más;Cancelar el semestre;,0.0
+"t_estudios_Me afecta bastante, de manera positiva",0.0
+"t_estudios_Me afecta poco, de manera positiva",0.0
+r_carrera_Cancelar una materia o más;Cancelar el semestre;,0.0
+r_carrera_Cancelar una materia o más;Cancelar el semestre;Cambiarse de carrera;,0.0
+ingresos_Más de $4.640.000,0.0
+financiacion_Beca;,0.0
+financiacion_Beca;Familiar;,0.0
+g_afectacion_9,0.0
+r_carrera_Cambiarse de carrera;Cancelar el semestre;,0.0
+promedio_acad_3.4,0.0
+promedio_acad_3.3,0.0
+promedio_acad_3.0,0.0
+promedio_acad_4.5,0.0
+promedio_acad_4.4,0.0
+recomendación_u_1,0.0
+recomendación_u_2,0.0
+recomendación_u_4,0.0
+recomendación_u_3,0.0
+promedio_acad_3.1,0.0
+promedio_acad_3.2,0.0
+promedio_acad_3.7,0.0
+promedio_acad_3.8,0.0
+promedio_acad_3.9,0.0
+promedio_acad_4.0,0.0
+promedio_acad_4.2,0.0
+promedio_acad_4.3,0.0
+promedio_acad_3.5,0.0
+promedio_acad_3.6,0.0
+financiacion_Trabajo propio;Mis padres (o familiares) me financian;,0.0
+financiacion_Trabajo propio;Familiar;,0.0
+financiacion_Trabajo propio;Crédito;,0.0
+financiacion_Mis padres (o familiares) me financian;Trabajo propio;,0.0
+financiacion_Mis padres (o familiares) me financian;Crédito;Beca;,0.0
+financiacion_Mis padres (o familiares) me financian;Crédito;Trabajo propio;,0.0
+financiacion_Mis padres (o familiares) me financian;Beca;,0.0
+financiacion_Mis padres (o familiares) me financian;Crédito;,0.0
+financiacion_Familiar;Beca;,0.0
+financiacion_Crédito;Trabajo propio;Mis padres (o familiares) me financian;,0.0
+financiacion_Familiar;Trabajo propio;,0.0
+financiacion_Familiar;Crédito;,0.0
+financiacion_Crédito;Trabajo propio;Familiar;,0.0
+financiacion_Crédito;Trabajo propio;,0.0
+financiacion_Crédito;Familiar;Trabajo propio;,0.0
+financiacion_Crédito;Mis padres (o familiares) me financian;,0.0
+ingresos_$3.480.001 - $4.640.000,0.0
+ingresos_$2.320.001 - $3.480.000,0.0
+financiacion_Crédito;Familiar;,0.0
+financiacion_Crédito;Beca;Familiar;Trabajo propio;,0.0
+financiacion_Beca;Trabajo propio;Mis padres (o familiares) me financian;,0.0
+c_familiar_Pésimo estudiante,0.0
+sisben_B3,0.0
+sisben_B4,0.0
+c_familiar_Mal estudiante,0.0
+sisben_D21,0.0
+sisben_D13,0.0
+sisben_D14,0.0
+sisben_D12,0.0
+embarazo_des_Altamente probable,0.0
+embarazo_des_Poco probable,0.0
+embarazo_des_Nada probable,0.0
+sisben_C6,0.0
+sisben_C5,0.0
+sisben_C4,0.0
+sisben_C3,0.0
+sisben_C2,0.0
+h_semanal_ más 12,0.0
+d_acad_Siempre,0.0
+sisben_C7,0.0
+h_semanal_10-12,0.0
+h_semanal_0-2,0.0
+c_profesores_No estoy seguro/a,0.0
+a_profesores_Nunca dispuestos a ayudar,0.0
+m_calificacion_1,0.0
+m_calificacion_3,0.0
+e_acad_Ninguno,0.0
+sisben_D1,0.0
+m_calificacion_6,0.0
+m_calificacion_4,0.0
+m_calificacion_8,0.0
+m_calificacion_9,0.0
+sisben_B5,0.0
+sisben_B6,0.0
+sisben_B7,0.0
+sisben_C1,0.0
+sisben_C10,0.0
+sisben_C15,0.0
+sisben_C17,0.0
+transporte_Bicicleta,0.0
+semestre_4,0.0
+semestre_3,0.0
+transporte_Otro,0.0
+semestre_5,0.0
+edad_32,0.0
+edad_31,0.0
+per_profesores_3,0.0
+per_profesores_4,0.0
+per_profesores_2,0.0
+per_profesores_1,0.0
+p_profesores_4,0.0
+p_profesores_10,0.0
+p_profesores_1,0.0
+m_calificacion_10,0.0
+p_profesores_3,0.0
+p_profesores_2,0.0
+sisben_A2,0.0
+sisben_A3,0.0
+edad_33,0.0
+edad_34,0.0
+acoso_psc_1,0.0
+per_profesores_10,0.0
+sisben_B2,0.0
+sisben_B1,0.0
+sisben_A5,0.0
+sisben_A4,0.0
+acoso_psc_4,0.0
+acoso_psc_2,0.0
+ac_acad_2,0.0
+acoso_psc_6,0.0
+edad_35,0.0
+edad_38,0.0
+edad_39,0.0
+edad_42,0.0
+edad_45,0.0
+sisben_A1,0.0
+v_semestre_9,0.0
+v_semestre_3,0.0
+v_semestre_2,0.0
+ac_acad_10,0.0
+ac_acad_9,0.0
+acoso_psc_3,0.0
+edad_16,0.0
+v_semestre_10,0.0
+edad_25,0.0
+edad_26,0.0
+edad_27,0.0
+edad_28,0.0
+edad_29,0.0
+promedio_acad_4.6,0.0
+edad_23,0.0
+edad_24,0.0
+adaptacion_u_3,0.0
+adaptacion_u_2,0.0
+edad_30,0.0
+adaptacion_u_9,0.0
+adaptacion_u_10,0.0
+campus_1,0.0
+campus_2,0.0
+campus_3,0.0
+campus_4,0.0
+campus_6,0.0
+promedio_acad_2.8,0.0
+p_cargo_Padres;Hermanos;,0.0
+p_cargo_Padres;Hijos;Pareja (conyuge);,0.0
+p_cargo_Padres;Ninguna;,0.0
+p_cargo_Pareja,0.0
+p_cargo_Pareja (conyuge);,0.0

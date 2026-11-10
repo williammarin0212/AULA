@@ -1,0 +1,12 @@
+{
+  "modelo_seleccionado": "Boosting (HistGB)",
+  "parametros_finales": {
+    "m__learning_rate": 0.1,
+    "m__max_depth": 6,
+    "m__max_iter": 200
+  },
+  "numero_variables": 313,
+  "numero_registros_entrenamiento": 3969,
+  "numero_registros_prueba": 1031,
+  "semilla": 42
+}

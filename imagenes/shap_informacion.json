@@ -1,0 +1,25 @@
+{
+  "metodo": "SHAP PermutationExplainer",
+  "clase_explicada": "Riesgo de deserción (clase 1)",
+  "registros_referencia": 30,
+  "registros_explicados": 20,
+  "numero_variables": 313,
+  "max_evals": 627,
+  "top_15_variables": [
+    "e_acad_Demasiado",
+    "recomendación_u_8",
+    "aban_inter_No",
+    "autopercepcion_Totalmente",
+    "d_acad_Muchas veces",
+    "a_profesores_Siempre dispuestos a ayudar",
+    "a_familiar_Mucho",
+    "p_profesores_8",
+    "a_profesores_A veces dispuestos a ayudar",
+    "autopercepcion_Muy poco",
+    "e_acad_Mucho",
+    "per_profesores_6",
+    "d_acad_Nunca",
+    "dificultades_t_Pocas veces",
+    "h_semanal_2-4"
+  ]
+}
